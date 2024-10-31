@@ -12,4 +12,4 @@ Student
 student@example.com	1234	
 
 Parent	
-parent@example.com	1234	
+parent@example.com	1234
